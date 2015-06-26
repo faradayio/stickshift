@@ -11,7 +11,7 @@ function isLat(f) { return !!f.match(/(Lat)(itude)?/gi); }
 function isLon(f) { return !!f.match(/(L)(on|ng)(gitude)?/i); }
 
 function drawMap(element, events) {
-  var map = L.mapbox.map(element, 'tmcw.l12c66f2', {
+  var map = L.mapbox.map(element, 'faraday2.mi9pl4hl', {
     scrollWheelZoom: false
   }).fitBounds([
     [-90, -180],

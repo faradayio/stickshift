@@ -6,8 +6,8 @@ Stickshift(
   {
     endpoint: 'http://localhost:3000/query',
     branch: 'db',
-    username: 'mapbox',
+    username: 'faraday2',
     access_token: cookie.parse(document.cookie).access_token,
-    mapboxToken: 'pk.eyJ1IjoidG1jdyIsImEiOiJIZmRUQjRBIn0.lRARalfaGHnPdRcc-7QZYQ',
+    mapboxToken: 'pk.eyJ1IjoiZmFyYWRheTIiLCJhIjoiTUVHbDl5OCJ9.buFaqIdaIM3iXr1BOYKpsQ',
     repo: 'stickshift'
   });

@@ -1,3 +1,8 @@
+# 1.4.1
+
+* Switched to Faraday account
+* Basemap satellite by default
+
 # 1.4.0
 
 * Syntax highlighting for SQL inputs
